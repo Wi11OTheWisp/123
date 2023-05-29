@@ -18,6 +18,8 @@ namespace Game
 {
     /// <summary>
     /// Логика взаимодействия для MainWindow.xaml
+    ///
+    /// l;ekjrwlkejr;wlkerj wel;
     /// </summary>
     public partial class MainWindow : Window
     {
